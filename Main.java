@@ -28,5 +28,6 @@ public class Main {
         System.out.println(calc.add(a,b));
         System.out.println(calc.multiply(a, b));
         System.out.println(Calculator.substract(a, b));
+        sc.close();
     }
 }
